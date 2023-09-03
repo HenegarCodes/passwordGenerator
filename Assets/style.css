@@ -21,6 +21,7 @@ body {
   padding-top: 30px;
   padding-left: 20px;
   padding-right: 20px;
+  margin: auto;
 }
 
 header {
@@ -56,6 +57,7 @@ header {
 
 .card-footer {
   text-align: center;
+  
 }
 
 .card-footer::before {
