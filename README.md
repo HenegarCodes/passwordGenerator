@@ -8,7 +8,7 @@ This project was not fully created by me. There was starter code given through m
 <img width="1461" alt="pass generator" src="https://github.com/HenegarCodes/passwordGenerator/assets/78831747/7034e784-a935-4f3d-a276-1a9b324c8f4e">
 
 
-https://henegarcodes.github.io/passwordGenerator/
+https://henegarcodes.github.io/passwordGenerator/ 
 
 ## Table of Contents 
 
