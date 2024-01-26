@@ -2,7 +2,7 @@
 
 ## Description
 
-This project was not fully created by me. There was starter code given through my bootcamp. The CSS file wasn't properly linked for my files so i fixed that so the styling was fixed easily. I didn't edit anything in the HTML although it is a simple boiler plate with a few items. There were a few items like event listeners and buttons already in the javascript file. But I created all variabkles, loops, arrays, and other items. I learned a lot i feel like the loops and especially the for loop at the end that generates the password is what held me up. It is practically the same in Java but could not remember old experiences so i had to read documentation and figure it out so thats why it sees quite basic. This allows anyone to properly generate their own uniqque password all t=while selecting their own characteristics for it. 
+In this project I created the password generatto allow for a secure password to keep accounts safe for users. It essentially allows someone to choose amount of characters, special characters, numbers and evenc case for letters. This day in age security is the most important thing ever. This allows users to be comfortable with leaving their accounts alone without them being comprimised over a weak password.
 
 
 <img width="1461" alt="pass generator" src="https://github.com/HenegarCodes/passwordGenerator/assets/78831747/7034e784-a935-4f3d-a276-1a9b324c8f4e">
